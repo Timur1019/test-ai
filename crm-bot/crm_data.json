@@ -1,0 +1,39 @@
+{
+  "clients": [
+    {
+      "id": 1,
+      "name": "Александр",
+      "previous_purchase": "BMW X5",
+      "budget": 150000,
+      "deal_status": "Интересуется"
+    },
+    {
+      "id": 2,
+      "name": "Мария",
+      "previous_purchase": "Audi Q7",
+      "budget": 120000,
+      "deal_status": "Обсуждение условий"
+    },
+    {
+      "id": 3,
+      "name": "Иван",
+      "previous_purchase": "Toyota Camry",
+      "budget": 35000,
+      "deal_status": "Хочет рассрочку"
+    },
+    {
+      "id": 4,
+      "name": "Саида",
+      "previous_purchase": "Mercedes GLE",
+      "budget": 180000,
+      "deal_status": "Ожидает одобрения кредита"
+    },
+    {
+      "id": 5,
+      "name": "Тимур",
+      "previous_purchase": "Bentley Continental GT",
+      "budget": 300000,
+      "deal_status": "Премиум клиент"
+    }
+  ]
+}
